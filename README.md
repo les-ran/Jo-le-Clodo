@@ -1,2 +1,0 @@
-# Jo-le-Clodo
-GlobalGameJam
